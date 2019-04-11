@@ -20,6 +20,6 @@ def first_challenge
         flavor == "strawberry"
       end
     end
-    contacts
+     return contacts
   end
 end
